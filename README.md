@@ -1,4 +1,4 @@
-### Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> | [![Profile views](https://gpvc.arturio.dev/jinto4638)](https://github.com/jinto4638)
+### Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="250px">
 
 
 

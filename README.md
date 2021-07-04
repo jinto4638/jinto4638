@@ -17,7 +17,7 @@
 [GitHub](https://github.com/jinto4638) |
 [GitLab](https://gitlab.com/jinto4638) |
 [Telegram](https://telegram.me/jintons) |
-[Facebook](https://www.fb.com/profile/jintonsebastian)
+[Facebook](https://www.fb.com/jintonsebastian)
 
 <p align="middle">
   

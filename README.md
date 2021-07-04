@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://t.me/jintons"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+    </p>
+
+
 - 🏷️ My name is jinto 😎
 - 🎓 completed bachelor of technology in kmct College of engineering under Calicut University
 - 🖥️ Currently Learning Python, HTML etc

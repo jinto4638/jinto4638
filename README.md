@@ -1,7 +1,5 @@
 ### Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-
-
-
+---
 <p align="center">
   <a href="https://t.me/jintons"><img src="https://github.com/jinto4638/jinto4638/blob/main/giphy.gif"></a>
     </p>
@@ -45,12 +43,9 @@
 <a href="https://www.youtube.com/c/jintonsebastian"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 </p>
 
----
-
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JINTO4638}/count.svg" /></p> 
-
-
+---
 <p align="right">
   <a href="https://t.me/jintons"><img src="https://github.com/jinto4638/jinto4638/blob/main/ce694f560636dffcf42ecf40d4f2f962.gif"></a>
     </p>

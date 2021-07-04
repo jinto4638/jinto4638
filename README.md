@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://t.me/jintons"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+  <a href="https://t.me/jintons"><img src="https://github.com/jinto4638/jinto4638/blob/main/ce694f560636dffcf42ecf40d4f2f962.gif"></a>
     </p>
 
 

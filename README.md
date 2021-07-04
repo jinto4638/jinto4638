@@ -45,6 +45,8 @@
 <a href="https://www.youtube.com/c/jintonsebastian"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 </p>
 
+---
+
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JINTO4638}/count.svg" /></p> 
 

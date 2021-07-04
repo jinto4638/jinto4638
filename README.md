@@ -27,7 +27,7 @@
 [Facebook](https://www.fb.com/jintonsebastian)
 
 <p align="right">
-  <a href="https://t.me/jintons"><img src="https://github.com/jinto4638/jinto4638/blob/main/giphy.gif"></a>
+  <a href="https://t.me/jintons"><img src="https://github.com/jinto4638/jinto4638/blob/main/b949c86a570df07a7440abe39405834c.gif"></a>
     </p>
 
 
@@ -47,3 +47,8 @@
 
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JINTO4638}/count.svg" /></p> 
+
+
+<p align="right">
+  <a href="https://t.me/jintons"><img src="https://github.com/jinto4638/jinto4638/blob/main/b949c86a570df07a7440abe39405834c.gif"></a>
+    </p>

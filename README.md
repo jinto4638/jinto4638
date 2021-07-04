@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> | [![Profile views](https://gpvc.arturio.dev/Kristy-offl)](https://github.com/kristy-offl)
+
+
 
 <p align="center">
   <a href="https://t.me/jintons"><img src="https://github.com/jinto4638/jinto4638/blob/main/ce694f560636dffcf42ecf40d4f2f962.gif"></a>

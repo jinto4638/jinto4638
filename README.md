@@ -1,12 +1,23 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working Schneider Electric
-- 🌱 I’m currently learning git and phython
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
+- 🏷️ My name is jinto 😎
+- 🎓 completed bachelor of technology in kmct College of engineering under Calicut University
+- 🖥️ Currently Learning Python, HTML etc
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/jinto4638?tab=repositories)
+- 🔭 I'm collaborating in more private or public repositories and organizations
+- 🌐 I'm from kannur, Kerala, India 🇮🇳
+- 🗣️ I'm know [Malayalam](https://google.com/search?q=Malayalam), [Tamil](https://google.com/search?q=Tamil) and [English](https://google.com/search?q=English) [Hindi](https://google.com/search?q=hindi) Languages
+- 🎂 23 oct..
+- 🗯️ My favourite quote is `Dont judge a book by its cover` and `Knowledge is power`
+- ⚙️ My Virtual Hoster is [Heroku](https://heroku.com)
+- ❤️ My accounts:
+[Twitter](https://twitter.com/jinto4638) |
+[Instagram](https://instagram.com/jintonsebastian) |
+[YouTube](https://youtube.com/channel/jintonsebastian) |
+[GitHub](https://github.com/jinto4638) |
+[GitLab](https://gitlab.com/jinto4638) |
+[Telegram](https://telegram.me/jintons) |
+[Facebook](https://www.quora.com/profile/jintonsebastian)
 
 <p align="middle">
   

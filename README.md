@@ -26,7 +26,7 @@
 [Telegram](https://telegram.me/jintons) |
 [Facebook](https://www.fb.com/jintonsebastian)
 
-<p align="center">
+<p align="right">
   <a href="https://t.me/jintons"><img src="https://github.com/jinto4638/jinto4638/blob/main/giphy.gif"></a>
     </p>
 

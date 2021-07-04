@@ -6,7 +6,7 @@
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/jinto4638?tab=repositories)
 - 🔭 I'm collaborating in more private or public repositories and organizations
 - 🌐 I'm from kannur, Kerala, India 🇮🇳
-- 🗣️ I'm know [Malayalam](https://google.com/search?q=Malayalam), [Tamil](https://google.com/search?q=Tamil) and [English](https://google.com/search?q=English) [Hindi](https://google.com/search?q=hindi) Languages
+- 🗣️ I'm know [Malayalam](https://google.com/search?q=Malayalam), [Tamil](https://google.com/search?q=Tamil), [English](https://google.com/search?q=English) and [Hindi](https://google.com/search?q=hindi) Languages
 - 🎂 23 oct..
 - 🗯️ My favourite quote is `Dont judge a book by its cover` and `Knowledge is power`
 - ⚙️ My Virtual Hoster is [Heroku](https://heroku.com)

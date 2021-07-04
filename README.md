@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://t.me/jintons"><img src="https://github.com/jinto4638/jinto4638/blob/main/ce694f560636dffcf42ecf40d4f2f962.gif"></a>
+  <a href="https://t.me/jintons"><img src="https://github.com/jinto4638/jinto4638/blob/main/giphy.gif"></a>
     </p>
 
 

@@ -13,11 +13,11 @@
 - ❤️ My accounts:
 [Twitter](https://twitter.com/jinto4638) |
 [Instagram](https://instagram.com/jintonsebastian) |
-[YouTube](https://youtube.com/channel/jintonsebastian) |
+[YouTube](https://youtube.com/c/jintonsebastian) |
 [GitHub](https://github.com/jinto4638) |
 [GitLab](https://gitlab.com/jinto4638) |
 [Telegram](https://telegram.me/jintons) |
-[Facebook](https://www.quora.com/profile/jintonsebastian)
+[Facebook](https://www.fb.com/profile/jintonsebastian)
 
 <p align="middle">
   

@@ -6,7 +6,7 @@
 
 
 - 🏷️ My name is jinto 😎
-- 🎓 completed bachelor of technology in kmct College of engineering under Calicut University
+- 🎓 completed bachelor of technology Mechanical engineering in kmct College of engineering under Calicut University
 - 🖥️ Currently Learning Python, HTML etc
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/jinto4638?tab=repositories)
 - 🔭 I'm collaborating in more private or public repositories and organizations

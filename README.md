@@ -33,7 +33,7 @@
 |   Twitter     | <a href="https://twitter.com/jinto4638"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> |
 |   Instagram   | <a href="https://Instagram.com/jintonsebastian"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white"></a> |
 |   YouTube     | <a href="https://youtube.com/c/jintonsebastian"><img src="https://img.shields.io/badge/youtube-ff3333?style=for-the-badge&logo=YouTube&logoColor=white"></a> |
-|   Facebook    | <a href="https://fb.com/jintonsebastian"><img src="https://img.shields.io/badge/Facebook-ff3333?style=for-the-badge&logo=Facebook&logoColor=white"></a> |
+|   Facebook    | <a href="https://fb.com/jintonsebastian"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white"></a> |
 
 
 

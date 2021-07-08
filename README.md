@@ -24,6 +24,18 @@
 [Telegram](https://telegram.me/jintons) |
 [Facebook](https://www.fb.com/jintonsebastian)
 
+# Me On Social
+
+| **Platform**  |    Take a look       |
+|---------------|---------------------|
+|   Github      | <a href="https://github.com/jinto4638"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
+|   Gitlab      | <a href="https://gitlab.com/Itz-mrk"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> |
+|   Twitter     | <a href="https://twitter.com/jinto4638"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> |
+|   Instagram   | <a href="https://Instagram.com/jintonsebastian"><img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=Instagram&logoColor=white"></a>" |
+
+
+
+
 <p align="right">
   <a href="https://t.me/jintons"><img src="https://github.com/jinto4638/jinto4638/blob/main/b949c86a570df07a7440abe39405834c.gif"></a>
     </p>

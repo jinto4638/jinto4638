@@ -35,7 +35,7 @@
 |   YouTube     | <a href="https://youtube.com/c/jintonsebastian"><img src="https://img.shields.io/badge/youtube-ff3333?style=for-the-badge&logo=YouTube&logoColor=white"></a> |
 |   Facebook    | <a href="https://fb.com/jintonsebastian"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=Facebook&logoColor=white"></a> |
 |   Telegram    | <a href="https://t.me/jintons"><img src="https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=Facebook&logoColor=white"></a> |
-|  ＪƝ⟆ ᗷ〇Ƭ⟆    | <a href="https://t.me/jNs_BOTS"><img src="https://img.shields.io/badge/Telegram-ＪƝ⟆ ᗷ〇Ƭ⟆-FFFF00.svg?logo=telegram"></a> |
+| ＪƝ⟆-ᗷ〇Ƭ⟆  | <a href="https://t.me/jNs_BOTS"><img src="https://img.shields.io/badge/Telegram-ＪƝ⟆ ᗷ〇Ƭ⟆-FFFF00.svg?logo=telegram"></a> |
 
 
 

@@ -34,7 +34,7 @@
 |   Instagram   | <a href="https://Instagram.com/jintonsebastian"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white"></a> |
 |   YouTube     | <a href="https://youtube.com/c/jintonsebastian"><img src="https://img.shields.io/badge/youtube-ff3333?style=for-the-badge&logo=YouTube&logoColor=white"></a> |
 |   Facebook    | <a href="https://fb.com/jintonsebastian"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=Facebook&logoColor=white"></a> |
-|   Telegram    | <a href="https://t.me/jintons"><img src="https://img.shields.io/badge/telegram-3b5978?style=for-the-badge&logo=Facebook&logoColor=white"></a> |
+|   Telegram    | <a href="https://t.me/jintons"><img src="https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=Facebook&logoColor=white"></a> |
 
 
 

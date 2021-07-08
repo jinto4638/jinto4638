@@ -37,7 +37,7 @@
 |   Facebook    | <a href="https://fb.com/jintonsebastian"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=Facebook&logoColor=white"></a> |
 |   Telegram    | <a href="https://t.me/jintons"><img src="https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a> |
 |   Jns Bots    | <a href="https://t.me/jNs_BOTS"><img src="https://img.shields.io/badge/ＪƝ⟆ ᗷ〇Ƭ⟆-F6BE00.svg?logo=telegram"></a> |
-|   WEBSITE     | <a href="https://jinto4638.github.io/jinto-n-sebastian"><img src="https://img.shields.io/badge/JINTO N SEBASTIAN-E41B17?style=for-the-badge&logo=Round&logoColor=white"></a> |
+|   WEBSITE     | <a href="https://jinto4638.github.io/jinto-n-sebastian"><img src="https://img.shields.io/badge/JINTO N SEBASTIAN-E41B17?style=for-the-badge&logo=google&logoColor=white"></a> |
 
 
 

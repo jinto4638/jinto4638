@@ -10,7 +10,8 @@
 </p>
 
 
-- 🏷️ My name is jinto 😎
+- 🏷️ My name is <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Jinto"> 😎
 - 🎓 completed bachelor of technology Mechanical engineering in kmct College of engineering under Calicut University
 - 🖥️ Currently Learning Python, HTML etc
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/jinto4638?tab=repositories)

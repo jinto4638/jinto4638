@@ -31,6 +31,7 @@
 
 ## Me On Social
 <summary>Click Here❤️</summary>
+<details>
 
 | **Platform**  |    Take a look       |
 |---------------|---------------------|
@@ -44,7 +45,7 @@
 |   Jns Bots    | <a href="https://t.me/jNs_BOTS"><img src="https://img.shields.io/badge/ＪƝ⟆ ᗷ〇Ƭ⟆-F6BE00.svg?logo=telegram"></a> |
 |   WEBSITE     | <a href="https://jinto4638.github.io/jinto-n-sebastian"><img src="https://img.shields.io/badge/JINTO N SEBASTIAN-00FFFF?style=for-the-badge&logo=drive&logoColor=white"></a> |
 
-
+</details>
 
 <p align="right">
   <a href="https://t.me/jintons"><img src="https://github.com/jinto4638/jinto4638/blob/main/b949c86a570df07a7440abe39405834c.gif"></a>

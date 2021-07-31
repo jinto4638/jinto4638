@@ -29,7 +29,9 @@
 [Telegram](https://telegram.me/jintons) |
 [Facebook](https://www.fb.com/jintonsebastian)
 
-## Me On Social src="https://github.com/jinto4638/jinto4638/💖/Handshake.gif" height="33px" /></h3>
+<h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Handshake.gif" height="33px" /></h3>
+
+
 <details>
 
 | **Platform**  |    Take a look       |

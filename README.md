@@ -5,6 +5,10 @@
   <a href="https://t.me/jintons"><img src="https://github.com/jinto4638/jinto4638/blob/main/giphy.gif"></a>
     </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Haiii...A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Php%2C+Linux%E2%9D%A4%EF%B8%8F">
+</p>
+
 
 - 🏷️ My name is jinto 😎
 - 🎓 completed bachelor of technology Mechanical engineering in kmct College of engineering under Calicut University

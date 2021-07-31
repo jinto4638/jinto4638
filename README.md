@@ -10,8 +10,7 @@
 </p>
 
 
-- 🏷️ My name is <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Jinto"> 😎
+- 🏷️ My name is Jinto🥳
 - 🎓 completed bachelor of technology Mechanical engineering in kmct College of engineering under Calicut University
 - 🖥️ Currently Learning Python, HTML etc
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/jinto4638?tab=repositories)
@@ -37,7 +36,7 @@
 |   Github      | <a href="https://github.com/jinto4638"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
 |   Gitlab      | <a href="https://gitlab.com/Itz-mrk"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a> |
 |   Twitter     | <a href="https://twitter.com/jinto4638"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> |
-|   Instagram   | <a href="https://Instagram.com/jintonsebastian"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white"></a> |
+|   Instagram   | <a href="https://Instagram.com/jinto_n_sebastian"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white"></a> |
 |   YouTube     | <a href="https://youtube.com/c/jintonsebastian"><img src="https://img.shields.io/badge/youtube-ff3333?style=for-the-badge&logo=YouTube&logoColor=white"></a> |
 |   Facebook    | <a href="https://fb.com/jintonsebastian"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=Facebook&logoColor=white"></a> |
 |   Telegram    | <a href="https://t.me/jintons"><img src="https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a> |

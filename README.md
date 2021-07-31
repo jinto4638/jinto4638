@@ -45,6 +45,7 @@
 |   Telegram    | <a href="https://t.me/jintons"><img src="https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a> |
 |   Jns Bots    | <a href="https://t.me/jNs_BOTS"><img src="https://img.shields.io/badge/ＪƝ⟆ ᗷ〇Ƭ⟆-F6BE00.svg?logo=telegram"></a> |
 |   WEBSITE     | <a href="https://jinto4638.github.io/jinto-n-sebastian"><img src="https://img.shields.io/badge/JINTO N SEBASTIAN-00FFFF?style=for-the-badge&logo=drive&logoColor=white"></a> |
+|  linkedin     | <a href="https://linkedin.com/jinto-n-sebastian"><img src="https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 
 </details>
 

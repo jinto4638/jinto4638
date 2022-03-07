@@ -10,7 +10,7 @@
 </p>
 
 
-- 🏷️ My name is Jinto🥳
+- 🏷️ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230DF71A&duration=10000&lines=+My+name+is+Jinto+Sebastian)](https://git.io/typing-svg)🥳
 - 🎓 completed Bachelor of technology Mechanical engineering in kmct College of engineering under Calicut University
 - 🖥️ Currently Learning Python, HTML,CSS, JavaScript,PHP etc.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/jinto4638?tab=repositories)

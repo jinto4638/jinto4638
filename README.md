@@ -7,10 +7,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Haiii...A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+html%2C+git%E2%9D%A4%EF%B8%8F">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=time&color=%23F77408&size=25&multiline=true&lines=I'm+very+passionated+Dev.+from+India;Python+%2C+HMTL%2C+CSS%2C+JavaScript;website+designing+and+developing)](https://git.io/typing-svg)
 </p>
 
 
-- 🏷️ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230DF71A&size=15&duration=10000&lines=+My+name+is+Jinto+Sebastian)](https://git.io/typing-svg)🥳
+- 🏷️ my name is jinto sebastian🥳
 - 🎓 completed Bachelor of technology Mechanical engineering in kmct College of engineering under Calicut University
 - 🖥️ Currently Learning Python, HTML,CSS, JavaScript,PHP etc.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/jinto4638?tab=repositories)

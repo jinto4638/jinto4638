@@ -11,7 +11,7 @@
 
 - 🏷️ my name is jinto sebastian🥳
 - 🎓 completed Bachelor of technology Mechanical engineering in kmct College of engineering under Calicut University
-- 🖥️ Currently Learning Python, HTML,CSS, JavaScript,PHP etc.
+- 🖥️ Currently Learning Python, HTML,CSS, JavaScript,react etc.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/jinto4638?tab=repositories)
 - 🔭 I'm collaborating in more private or public repositories and organizations
 - 🌐 I'm from kannur, Kerala, India 🇮🇳
